@@ -1,0 +1,20 @@
+.custom-form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+    background-color: #232528;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.form-input{
+    margin-bottom: 10px;
+}
+
+.submit-button{
+    background-color: grey;
+    border: 2px solid white;
+    color: black;
+    font-weight: bolder;
+}

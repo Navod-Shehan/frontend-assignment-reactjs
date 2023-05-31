@@ -1,0 +1,114 @@
+.custom-table .ant-table-tbody>tr {
+    background-color: #232528;
+}
+
+.custom-table tr:hover {
+  background-color: transparent;
+}
+
+
+.custom-table .ant-table-tbody > tr > td {
+    border-bottom-width: 1px;
+    border-bottom-color: #4c4e51;
+    border-bottom-style: solid;
+    color: white;
+    height: 68px;
+}
+
+.container{
+  height: auto;
+  background-color: black;
+}
+
+.rightHeader{
+  background-color: #232528;
+  border-radius: 20px;
+  padding: 4px 10px 10px 10px;
+  margin-right: 100px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.text-header{
+  color: white;
+  padding-left: 20px;
+}
+.header-button{
+  padding: 20px;
+}
+.header-button button {
+  background-color: yellow;
+  width: 60px;
+  height: 60px;
+}
+
+.search-bar{
+  border-radius: 20px;
+  height: 40px;
+  background-color: #6f737a;
+}
+
+.button-row{
+  padding: 4px 10px 10px 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.buttons-all {
+  margin: 10px;
+  background-color: #232528;
+}
+
+.table-row {
+  width: 91%;
+}
+
+.table-cont{
+  background-color: #232528;
+  border-radius: 20px;
+  padding: 4px 10px 10px 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  max-height: 450px;
+  overflow-x: auto;
+}
+
+ .table-cont::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  .table-cont::-webkit-scrollbar-track {
+    background: black;
+  }
+
+  .table-cont::-webkit-scrollbar-thumb {
+    background: #4c4e51;
+  }
+
+  .custom-modal .ant-modal-content {
+    background-color: black; /* Set your desired background color */
+  }
+  
+  .custom-modal .ant-modal-header {
+    background-color: #000000; /* Set your desired header background color */
+    color: #ffffff; /* Set your desired header text color */
+  }
+  
+  .custom-modal .ant-modal-footer {
+    background-color: black; /* Set your desired footer background color */
+  }
+  
+  .custom-modal .ant-modal-footer button {
+    background-color: #4c4e51; /* Set your desired button background color */
+    color: #ffffff; /* Set your desired button text color */
+  }
+
+  .custom-modal .ant-modal-title {
+    color: #ffffff;
+    font-weight: bolder;
+    align-items: center; /* Set your desired title color */
+  }
+  
