@@ -166,9 +166,6 @@ const Listview = () => {
     };
   }
 
-
-
-
   return (
     <>
       {/* Main Container */}
@@ -252,7 +249,6 @@ const Listview = () => {
                 dataSource={data}
                 showHeader={false}
                 pagination={false}
-
               />
             </Col>
           </Row>

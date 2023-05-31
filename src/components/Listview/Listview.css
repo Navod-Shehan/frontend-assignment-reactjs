@@ -2,17 +2,16 @@
     background-color: #232528;
 }
 
-.custom-table tr:hover {
-  background-color: transparent;
-}
-
-
 .custom-table .ant-table-tbody > tr > td {
     border-bottom-width: 1px;
     border-bottom-color: #4c4e51;
     border-bottom-style: solid;
     color: white;
     height: 68px;
+}
+
+.ant-table-cell-row-hover {
+  background-color: #232528 !important;
 }
 
 .container{
